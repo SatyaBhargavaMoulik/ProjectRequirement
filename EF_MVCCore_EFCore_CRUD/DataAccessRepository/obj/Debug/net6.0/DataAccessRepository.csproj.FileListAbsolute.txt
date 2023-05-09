@@ -1,0 +1,48 @@
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.deps.json
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.dll
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.pdb
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.AssemblyReference.cache
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfoInputs.cache
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfo.cs
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.CoreCompileInputs.cache
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.dll
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\refint\DataAccessRepository.dll
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.pdb
+C:\Users\silic\OneDrive\Desktop\MVCCore_With_2Tier\DataAccessRepository\obj\Debug\net6.0\ref\DataAccessRepository.dll
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.deps.json
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.dll
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.pdb
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.AssemblyReference.cache
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfoInputs.cache
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfo.cs
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.CoreCompileInputs.cache
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.dll
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\refint\DataAccessRepository.dll
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.pdb
+C:\Users\silic\OneDrive\Desktop\MVCCore_EFCore\DataAccessRepository\obj\Debug\net6.0\ref\DataAccessRepository.dll
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.deps.json
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.dll
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.pdb
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.AssemblyReference.cache
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfoInputs.cache
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfo.cs
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.CoreCompileInputs.cache
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.dll
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\refint\DataAccessRepository.dll
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.pdb
+D:\_Classes\_ASPNet_MVC\_B_0123\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\ref\DataAccessRepository.dll
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.deps.json
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.dll
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\bin\Debug\net6.0\DataAccessRepository.pdb
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.AssemblyReference.cache
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.GeneratedMSBuildEditorConfig.editorconfig
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfoInputs.cache
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.AssemblyInfo.cs
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.csproj.CoreCompileInputs.cache
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.dll
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\refint\DataAccessRepository.dll
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\DataAccessRepository.pdb
+S:\PRAGIM\MVC\ENTITY FRAMEWORK\MVCCore_EFCore_CRUD\DataAccessRepository\obj\Debug\net6.0\ref\DataAccessRepository.dll

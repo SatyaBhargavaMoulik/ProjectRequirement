@@ -1,0 +1,55 @@
+﻿@model DataAccessEFCore.RepoViewModel.VendorCityViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DisplayVendorCity</title>
+</head>
+<body>
+
+<div>
+    <h4>Vendor Detail</h4>
+    <hr />
+
+    <table border="1">
+        <tr>
+            <th>VID</th><th>VName</th><th>CityID</th>
+        </tr>
+        @foreach(var vndr in Model.VendorVMInfo)
+        {
+            <tr><td>@vndr.VID</td><td>@vndr.VName</td><td>@vndr.CityID</td></tr>
+        }
+
+    </table>
+
+  
+</div>
+<br /><br />
+
+
+
+    <div>
+        <h4>City Detail</h4>
+        <hr />
+        <table border="1">
+            <tr>
+                <th>City ID</th>
+                <th>City Name</th>
+            </tr>
+            @foreach (var ct in Model.CityVMInfo)
+            {
+                <tr><td>@ct.CityID</td><td>@ct.CityName</td></tr>
+            }
+
+        </table>
+
+    </div>
+
+</body>
+</html>
