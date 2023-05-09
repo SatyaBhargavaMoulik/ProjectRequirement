@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DisplayData</title>
+</head>
+<body>
+    <div>
+        <h2>Current date and time is : @DateTime.Now </h2>
+        <br />
+
+        @{
+
+            int x=10;
+            int y = 20;
+           @: Value of y is @y
+
+            <p>Value of x is @x </p>
+
+            if(x>0)
+            {
+                @: x is positive
+            }
+        }
+
+        <p>Value of x is @x </p>
+
+         @if(x>0)
+            {
+                @: x is positive
+            }
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿@model MVC_Authentication_Authorization.Models.UserDetailViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using(Html.BeginForm())
+    {
+        <p>User ID</p>
+        <input type="text" asp-for="UserID" />
+        <br />
+        <p>Password</p>
+        <input type="text" asp-for="Password" />
+        <br /><br />
+        <input type="submit" id="btnSubmit" name="btnSubmit" />
+
+    }
+</body>
+</html>

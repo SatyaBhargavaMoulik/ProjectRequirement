@@ -1,0 +1,14 @@
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\bin\Debug\net6.0\DA_EFCore.deps.json
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\bin\Debug\net6.0\DA_EFCore.runtimeconfig.json
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\bin\Debug\net6.0\DA_EFCore.dll
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\bin\Debug\net6.0\DA_EFCore.pdb
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.csproj.AssemblyReference.cache
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.AssemblyInfoInputs.cache
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.AssemblyInfo.cs
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.csproj.CoreCompileInputs.cache
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.dll
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\refint\DA_EFCore.dll
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.pdb
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\DA_EFCore.genruntimeconfig.cache
+C:\Users\silic\OneDrive\Desktop\MVC_EFCore_DBFirst\DA_EFCore\obj\Debug\net6.0\ref\DA_EFCore.dll

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebAPI_Products_Consumer.Models.Product>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+</head>
+<body>
+    @using(Html.BeginForm())
+    {
+
+        <table id="tbl">
+            <tr>
+                <th>PID</th><th>PName</th><th>Price</th>
+            </tr>
+            @foreach(var row in Model)
+            {
+                <tr>
+                    <td>@row.ProductId</td><td>@row.ProductName</td><td>@row.Price</td>
+                </tr>
+            }
+        </table>
+
+
+    }
+</body>
+</html>

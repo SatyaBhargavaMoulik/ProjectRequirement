@@ -1,0 +1,28 @@
+﻿@model WebAPI_Products_Consumer.Models.Product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    @using(Html.BeginForm())
+    {
+        <p>Product Name</p>
+        @Html.TextBoxFor(m=> Model.ProductName)
+        <br />
+        <p>Product Price</p>
+        @Html.TextBoxFor(m=> Model.Price)
+
+        <br /><br />
+        <input type="submit" id="btnSubmit" name="=btnSubmit" value="Submit"/>
+        <br />
+        <p>@ViewBag.Info</p>
+    }
+</body>
+</html>

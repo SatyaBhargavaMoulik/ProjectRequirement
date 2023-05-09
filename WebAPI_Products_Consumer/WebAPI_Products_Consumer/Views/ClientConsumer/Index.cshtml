@@ -1,0 +1,48 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="..\lib\jquery\dist\jquery.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            $("#tbl").empty();
+            $.ajax({
+                type: "GET",
+                url: "https://localhost:7286/api/MyProdDetail/GetProducts",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (x) {
+                    $.each(x, function (i, y) {
+                        $("#tbl").append('<tr><td>' + y.productId + '</td><td>' + y.productName + '</td><td>' + y.price + '</td></tr>');
+
+                    });
+                },
+                error: function (data) {
+                    alert("Something wrong in security policy")
+                }
+
+            });
+
+            return false;
+        });
+    </script>
+</head>
+<body>
+    @using(Html.BeginForm())
+    {
+        <table id="tbl">
+            <tr><td></td></tr>
+        </table>
+
+
+    }
+</body>
+</html>

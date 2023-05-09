@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Employee>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <table border="1">
+    @foreach(var emp in Model)
+    {
+            <tr><td>@emp.EmpID</td><td>@emp.EmpName</td><td>@emp.DeptID</td><td>@emp.DepartmentInfo.DeptName</td></tr>
+    }
+    </table>
+
+</body>
+</html>

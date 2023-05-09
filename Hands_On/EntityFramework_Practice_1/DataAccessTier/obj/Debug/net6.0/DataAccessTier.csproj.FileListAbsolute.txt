@@ -1,0 +1,14 @@
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\bin\Debug\net6.0\DataAccessTier.deps.json
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\bin\Debug\net6.0\DataAccessTier.runtimeconfig.json
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\bin\Debug\net6.0\DataAccessTier.dll
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\bin\Debug\net6.0\DataAccessTier.pdb
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.csproj.AssemblyReference.cache
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.GeneratedMSBuildEditorConfig.editorconfig
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.AssemblyInfoInputs.cache
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.AssemblyInfo.cs
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.csproj.CoreCompileInputs.cache
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.dll
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\refint\DataAccessTier.dll
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.pdb
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\DataAccessTier.genruntimeconfig.cache
+S:\PRAGIM\MVC\Hands_On\EntityFramework_Practice_1\DataAccessTier\obj\Debug\net6.0\ref\DataAccessTier.dll

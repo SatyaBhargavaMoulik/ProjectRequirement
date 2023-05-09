@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>LoadCountries</title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#Country").change(function () {
+                $("#State").empty();
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("GetStates")',
+                    dataType: 'json',
+                    data: { id: $("#Country").val() },
+                    success: function (x) {
+                        $.each(x, function (i, y) {
+                            $("#State").append('<option value="' + y.Value + '">' +
+                                y.Text + '</option>');
+                        });
+                    }
+                });
+                return false;
+            });
+
+
+        })
+    </script>
+    
+</head>
+<body>
+    <div>
+        <p>Country : @Html.DropDownList("Country", ViewData["countryList"] as List<SelectListItem>)</p>
+
+        <p>State : @Html.DropDownList("State", new SelectList(String.Empty, "Value", "Text"), "Please Select State", new { style = "width:250px;" })</p>
+    </div>
+</body>
+</html>

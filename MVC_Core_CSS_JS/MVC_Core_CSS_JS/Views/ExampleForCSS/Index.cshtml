@@ -1,0 +1,61 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        .MyParagraph
+        {
+            background-color:lightblue;
+            border-style: dashed;
+            border-color: brown;
+            border-width: 3px;
+            width:700px;
+        }
+    </style>
+    <link href="~/css/mycustomstyle.css" rel="stylesheet" />
+</head>
+<body>
+    <p style="background-color:aquamarine;border-style:dashed;border-color:brown;border-width:3px;">
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph.
+    </p>
+    <br />
+    <br />
+    <p class="MyParagraph">
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph.
+    </p>
+    <br />
+    <p class="MyParagraph">
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph.
+    </p>
+
+    <br />
+    <br />
+    <p class="MyLinkedParagraph">
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph.
+    </p>
+    <br />
+    <p class="MyLinkedParagraph">
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph. <br />
+        This is an example paragraph. This is an example paragraph.
+    </p>
+
+    <br /><br /><br />
+    @Html.ActionLink("Click here to visit 2nd page", "MySecondPage")
+</body>
+</html>
